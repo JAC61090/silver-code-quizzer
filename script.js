@@ -184,7 +184,15 @@ function clearScore(){
     highscoreDisplayScore.textContent = "";
 }
 
-
+// This function sets all the variables back to their original values and shows the home page to enable replay of the quiz
+function replayQuiz(){
+    highscoreContainer.style.display = "none";
+    gameoverDiv.style.display = "none";
+    startQuizDiv.style.display = "flex";
+    timeLeft = 76;
+    score = 0;
+    currentQuestionIndex = 0;
+}
 
 
 
