@@ -177,6 +177,13 @@ function showHighscore(){
     generateHighscores();
 }
 
+// This function clears the local storage of the high scores as well as clearing the text from the high score board
+function clearScore(){
+    window.localStorage.clear();
+    highscoreDisplayName.textContent = "";
+    highscoreDisplayScore.textContent = "";
+}
+
 
 
 
