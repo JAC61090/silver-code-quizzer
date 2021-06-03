@@ -72,3 +72,30 @@ input{
 #quiz {
     display: none;
 }
+
+#result {
+    display: none;
+}
+
+#gameover {
+    text-align: center;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+#highScore{
+    height: 1.5rem;
+    border: groove 2px;
+}
+
+#high-scorePage{
+    display: none;
+    width: 50%;
+    border: solid;
+    border-color: silver;
+    border-bottom-style: groove;
+    padding-bottom: .3rem;
+    background: lightsteelblue;
+}
+
