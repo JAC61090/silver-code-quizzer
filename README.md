@@ -1,8 +1,8 @@
 # 04 Web APIs: Code Quiz
 
-# silver-code-quizzer
-- github user: JAC61090 ()
-- [Launch silver-code-quiz] (https://github.com/JAC61090/silver-code-quizzer.git)
+# silver-code-quizzer With Deployed link
+- github user: JAC61090 (https://github.com/JAC61090/improved-wether-dashBoard.git)
+- [Launch silver-code-quiz] (https://jac61090.github.io/silver-code-quizzer/)
 
 
 ## Your Task
